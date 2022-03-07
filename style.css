@@ -1,0 +1,98 @@
+.button {
+    margin-top: 20px;
+    width: 40%;
+}
+.tbl-cust td {
+    color: grey;
+    padding: 0.8vw 0.8vw;
+    font-size: calc(3px + 0.7vw);
+    border-width: 0.2vw;
+    text-align: center;
+    max-width: 11vw;
+    min-width: 11vw;
+}
+p {
+    font-size: calc(6px + 0.8vw);
+    text-align: center;
+}
+
+form > p {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+td, tr {
+        border: 1px solid grey;
+}
+
+select.select-css {
+    max-width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+ margin-left: auto;
+    margin-right: auto;   
+}
+
+.dd-table {
+    font-size: 1.3vw;
+    display: block;
+    text-align: center;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid grey;
+    padding: 1%;
+}
+
+.dd-table div {
+    padding: 2% 0px;
+    border: 1px solid grey;
+    
+}
+.half {
+    width: 42%;
+    margin: 2% 10px;
+    display: inline-block;
+}
+
+.spec{
+    width: 100%;
+    display: inline-block;
+}
+
+.quarter{
+	width: 20%;
+	margin:1%;
+	display: inline-grid;
+}
+.leftq{
+	width: 20%;
+	margin:1%;
+	display: inline-grid;
+	margin-left: 0px;
+}
+
+.seventyfive {
+    width: 65%;
+    margin-left: 1%;
+    display: inline-block;
+}
+
+.part {
+    margin-bottom: 2%;
+}
+
+.gia{
+	width: 86%;
+	margin: 1%;
+	display: inline-block;
+}
+
+.moreOptions {
+    text-align: center;
+}
